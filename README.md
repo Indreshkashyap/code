@@ -9,5 +9,5 @@ This is the first test repo.
 
 > this is something tesxttsdasd.
 
-Here is my Python Code : [Click_here](/testcode/test.py)
+Here is my Python Code : [Click_here](/test.py)
 Here is my C Code : [Click_here](/code.c)
