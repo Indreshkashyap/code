@@ -7,7 +7,7 @@ This is the first test repo.
 * 1st point
 * 2nd point
 
-> this is something tesxttsdasd.
+> this is something texts.
 
-Here is my Python Code : [Click_here](/test.py)
 Here is my C Code : [Click_here](/code.c)
+Here is my Python Code : [Click_here](/test.py)
